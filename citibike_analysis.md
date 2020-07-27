@@ -1,6 +1,6 @@
 # NYC Citi Bike Analysis 
 This is a summary of the analytic work that I did with the NYC Citi Bike data.
-## Analysis Purpose
+## Purpose
 An analysis was performed to determine whether or not it would be a good business decision to expand the CitiBike customer base into Des Moines. Historical data for the 2019 August month in New York City was used as a basis for this analysis. Aspects such as population size, user's age demographic, and the average time spent commuting to and from work. 
 ### Results
 The following description and summaries correspond to the slide title located within the story (found in the below link). 
